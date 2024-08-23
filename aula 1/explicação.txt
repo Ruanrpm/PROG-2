@@ -1,0 +1,17 @@
+1.	Funções
+funções são a forma de voce dividir o seu codigo em pequenas partes deixando assim mais facil de resolver problemas e tbm dixando ele mais curto.
+
+2.	Argumentos/Parâmetros
+Esses são os dados que a função recebe podem ser de diversos tipos (int , float , boll) etc, assim generalizando as funções.
+
+3.	Tipos de funções
+(int , float , boll , double) são a forma que a função vai retornar um dado.
+
+4.	void
+É uma função sem retorno que recebe os dados processa-os porem não retorna nem um tipo de resposta.
+
+5.	Tipos de passagem de parâmetro (qual o padrão do C/C++?)
+Não sei.
+
+6.	Retorno de uma função (quais os tipos de retorno?)
+(int , float , boll , double) depende do que vc precisa no seu codig.
