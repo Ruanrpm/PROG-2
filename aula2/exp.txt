@@ -1,0 +1,15 @@
+1 - Na linha 21 o nome do aluno sai como ele foi digitado e na 23 ele sai com as iniciais em maiúsculo ja que o resultdo da função é armazenado na variavel aluno.
+E se o mudar a variavel que o cout esta printando o codigo não vai compilar.
+
+2 - É possivel identificar se a função retorna um valor pelo tipo dela, ali aonde o tipo da função é void não esta sendo retornado nem um valor,
+E esses retornos estão sendo armazenados nas variaveis X e sendo somadas a variavel num. OS parametros estão sendo usados 
+para calcular o dobro de um determinado numero  e printar o dobro de um determinado numero.
+
+3 - int rand (void);
+è uma função que não recebe parametros, e rotorna um numero inteiro.
+
+void srand (unsigned int seed);
+uma função que recebe um inteiro como parametro porem não retorna nada.
+
+int atoi (const char * str);
+É uma função que recebe um Char vonstante e retorna um interiro.
