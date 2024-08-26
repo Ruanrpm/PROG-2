@@ -1,0 +1,15 @@
+1 - na linha 4 vai mostrar o conteudo que tem na variavelno caso 5.
+E na linha 5 vai mostrar o endereço de memória.
+
+2 - Na linha 4 vai mostrar o endereço de memória da variavel "conta".
+E na 6 o endereço de memória da variavel resposta.
+
+3 - na linha 6 sera 55. Na linha 7 vai mostrar o endereço de memória da variavel num.
+E na 8 vai mostrar 55 também.
+
+B - 1) E.
+2)C.
+3)Sim. B e D, na B a variavel "i" recebe o conteudo da variavel que o ponteiro "*pti" esta guardando o endereço de memória
+e a D é declarado um variavel inteira.
+
+4 - a 5.
