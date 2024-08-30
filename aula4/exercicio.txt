@@ -1,0 +1,26 @@
+1 - na linha 2 sera printado 1 , 2 e 3
+na linha 6 sera printado 101 , 102 E 103.
+na linha 12 sera printado 1 , 2 , 3.
+
+2 - na linha 2: 1 , 2 e 3;
+na linha 6: 101 , 102 , 103;
+na linha 12: 101 , 102 e 103;
+
+3 - na linha 7: 0 e 5
+na linha 9 5 e 5;
+
+4 - na linha 11: 2 , 4 e 6;
+na linha 13: 2 , 4 e 6;
+na linha 14: 2 , 4 e 6;
+e na linha 16; 0 , 0 e 0;
+
+5 - na linha 3: 11;
+e na linha 9: 11;
+
+6 - na linha 4: 8 
+na linha 5: 7;
+na linha 11: 8;
+na linha 12: 2;
+
+7- vai printar os numeros digitados nas variaveis a e b e tambem a diferença entre os numeros a e b;
+B) o correto seria ler a variavel z e não o ponterio que aponta para ela.
