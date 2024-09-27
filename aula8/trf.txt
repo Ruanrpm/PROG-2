@@ -1,0 +1,32 @@
+A.	Ao se utilizar um vetor como parâmetro para uma função, qual informação está sendo passada à função?
+Assinale a opção correta e explique.
+(a). Uma cópia de todos elementos do vetor 
+(b). Uma cópia do primeiro elemento do vetor 
+(X). O endereço do primeiro elemento do vetor 
+(d). O endereço de todos os elementos do vetor 
+(e). Nenhuma das opções anteriores
+
+porque sempre que voce trabalhar com endereço de vetores, vai ser passado o endereço do primeiro indice do vetor.
+
+B. 	Qual o valor de y após a execução do programa? 
+4
+
+C.	Sabe-se que o valor de uma variável ou expressão do tipo vetor é o endereço do elemento zero do vetor.
+Seja a[] um vetor qualquer, independente de tipo e tamanho, e pa um ponteiro para o mesmo tipo de a[]. 
+Responda V ou F: 
+(V) Após a atribuição pa = &a[0], pa e a possuem valores idênticos, isto é, apontam para o mesmo endereço. 
+(V) A atribuição pa = &a[0]; pode ser escrita como pa = a;.
+(V) a[i] pode ser escrito como *(a+i).
+
+D.	O que está errado no código abaixo?
+A atribuição do do ponteiro p ao endereço da variavel x
+
+E.	Considerando o código abaixo, qual o valor apresentado na linha 7 (pb - pa)?
+Explique o resultado apresentado.
+e printado o valor 9. mas oque na verdade esta sendo subitraido é o indice dos vetores e não 
+o valor atrubuido a cada indice.
+
+F.	Analise o fragmento de código e identifique os valores finais de pc1, pc2, pc3 e pc4.
+Assuma que a variável x está armazenada no endereço 1000 de memória 
+e que uma variável do tipo caracter ocupa 1 byte.
+
