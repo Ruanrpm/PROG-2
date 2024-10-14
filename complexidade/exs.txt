@@ -1,0 +1,9 @@
+1-a) qunto tempo um algoritimo leva para ser executado com base em sua função Big O
+b)entradas tipos de dados e hardware;
+c)constante, linear , logaritimica , quadrática e cubica.
+d)
+e)O(1), O(n), O(n²) , O(log(n)) e O(n³);
+
+2)Ela analisa o maximo de recursos que um algoritimo vai usar durante sua execução.
+
+3) É de complexidade quadratica.
